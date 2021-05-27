@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/JoaoVini/hello-crud/issues"
   },
-  "homepage": "https://github.com/JoaoVini/hello-crud#readme"
+  "homepage": "https://github.com/JoaoVini/hello-crud#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
